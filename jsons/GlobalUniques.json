@@ -4,5 +4,12 @@
       "Provides [-1] [Food] <for every [2] [[non-[Mounted]] Units]>",
       "Provides [-1] [Food] <for every [[Mounted] Units]>",
       "Provides [-1] [Food] <for every [Food Demands]>",
+        //rotten
+      "Provides [-1] [Food] <for every [3] [Food]> <before discovering [Pottery]>",
+      "Provides [1] [Rotten Food] <for every [3] [Food]> <before discovering [Pottery]>",
+      "Provides [-1] [Food] <for every [4] [Food]> <after discovering [Pottery]> <before discovering [Refrigerator]>",
+      "Provides [1] [Rotten Food] <for every [4] [Food]> <after discovering [Pottery]> <before discovering [Refrigerator]>",
+      "Provides [-1] [Food] <for every [10] [Food]> <after discovering [Refrigerator]>",
+      "Provides [1] [Rotten Food] <for every [10] [Food]> <after discovering [Refrigerator]>"
     ]
 }
