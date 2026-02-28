@@ -11,9 +11,9 @@
       "Provides [1] [Rotten Food] <for every [4] [Food]> <after discovering [Pottery]> <before discovering [Refrigerator]>",
       "Provides [-1] [Food] <for every [10] [Food]> <after discovering [Refrigerator]>",
       "Provides [1] [Rotten Food] <for every [10] [Food]> <after discovering [Refrigerator]>",
-        "Cannot build [Settler] units <when number of [Food] is less than [0]>",
-        "Cannot build [Military] units <when number of [Food] is less than [0]>",
-        "[-100]% growth [in all cities] <when number of [Food] is less than [0]>",
-        "[-50]% Strength <for [All] units> <when number of [Food] is less than [0]>"
+        "Cannot build [Settler] units <when below [0] [Food]>",
+        "Cannot build [Military] units <when below [0] [Food]>",
+        "[-100]% growth [in all cities] <when below [0] [Food]>",
+        "[-50]% Strength <for [All] units> <when below [0] [Food]>"
     ]
 }
