@@ -2,6 +2,6 @@
     "name": "Global uniques",
     "uniques":[
       "Privides [-1] [Food] <for every [2] [[non-Mounted] Units]>",
-      "Provides [-3] [Food] <for every [[Mounted] Units]>",
+      "Provides [-1] [Food] <for every [[Mounted] Units]>",
     ]
 }
