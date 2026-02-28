@@ -8,7 +8,7 @@
 			"Provides [1] [Food] <in [Fresh water] tiles> <after discovering [Civil Service]>",
 			"Provides [1] [Food] <in [non-fresh water] tiles> <after discovering [Fertilizer]>",
             "Pillaging this improvement yields approximately [+18 Gold]",
-    "Provides [2] [Food]"],
+    "Provides [1] [Food]"],
 		"shortcutKey": "F"
 	},
 ]
