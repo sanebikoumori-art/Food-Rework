@@ -1,0 +1,27 @@
+
+texture.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+apple-icon.png
+  rotate: false
+  xy: 0,0
+  size: 256,256
+  orig: 256,256
+  offset: 0,0
+  index: -1
+law-icon.png
+  rotate: false
+  xy: 0,256
+  size: 256,256
+  orig: 256,256
+  offset: 0,0
+  index: -1
+nutrition-protein-icon.png
+  rotate: false
+  xy: 0,512
+  size: 256,256
+  orig: 256,256
+  offset: 0,0
+  index: -1
