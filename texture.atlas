@@ -18,11 +18,12 @@ BuildingIcons/Begin food rationing
   orig: 256,256
   offset: 0,0
   index: -1
-ResourceIcons/Food
+ResourceIcons/Foods
   rotate: false
   xy: 0,512
   size: 256,256
   orig: 256,256
   offset: 0,0
   index: -1
+
 
