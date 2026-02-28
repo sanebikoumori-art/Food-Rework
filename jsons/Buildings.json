@@ -16,7 +16,7 @@
   {
     "name":"Begin food rationing",
     "cost": 1,
-    "uniques":["Only available <when above [0] [Food]>",
+    "uniques":["Only available <when number of [Food] is more than [0]>",
 		"[+1 Food] [in this city] <for [10000] turns> <when above [0] [Food]>",
 		"Consumes [1] [Food]",
 		"Instantly provides [1] [Food Demands]",
