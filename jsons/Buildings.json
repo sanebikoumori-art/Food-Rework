@@ -4,9 +4,8 @@
     "cost": 1,
     "uniques":["Only available <when above [0] [Foods]>",
 		"[+1 Food] [in this city] <for [10000] turns> <when above [0] [Foods]>",
-		"Consumes [1] [Foods]",
 		"Instantly provides [1] [Food Demands]",
-		"Remove [Begin food rationing] [in this city]"] //recursive method
+		"Remove [Begin food rationing] [in this city]  <hidden from users>"] //recursive method
   },
 	{
 		"name": "Granary",
