@@ -3,22 +3,22 @@
     {
         "name": "Civilian",
         "movementType": "Land",
-        "uniques": ["Instantly consumes [1] [Food] <upon turn start>"]
+        "uniques": ["Provides [-1] [Food]"]
     },
     {
         "name": "Sword",
         "movementType": "Land",
-        "uniques": ["Instantly consumes [1] [Food] <upon turn start>"],
+        "uniques": ["Provides [-1] [Food]"],
     },
     {
         "name": "Gunpowder",
         "movementType": "Land",
-        "uniques": ["Instantly consumes [1] [Food] <upon turn start>"],
+        "uniques": ["Provides [-1] [Food]"],
     },
     {
         "name": "Archery",
         "movementType": "Land",
-        "uniques": ["Instantly consumes [1] [Food] <upon turn start>"],
+        "uniques": ["Provides [-1] [Food]"],
     },
     {
         "name": "Ranged Gunpowder",
