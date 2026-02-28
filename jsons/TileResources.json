@@ -13,7 +13,8 @@
 		"resourceType": "Strategic",
 		"uniques": [
 			"Stockpiled <hidden from users>",
-			"Excluded from map editor"
+			"Excluded from map editor",
+			"Not shown on world screen <hidden from users>"
     ]
   },
 	{
