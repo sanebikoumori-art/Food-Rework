@@ -16,6 +16,11 @@
   {
     "name":"Begin food rationing",
     "cost": 1,
-    "uniques":["Only available <when above [0] [Food]>","[+1 Food] [in this city] <for [10000] turns>","Consumes [1] [Food]","Instantly consumes [1] [Food] <for [10000] turns>","Remove [Begin food rationing] [in this city]"]
+    "uniques":["Only available <when above [0] [Food]>",
+		"[+1 Food] [in this city] <for [10000] turns>",
+		"Consumes [1] [Food]",
+		"Provides [-1] [Food] <for [10000] turns>",
+		//"Instantly consumes [1] [Food] <for [10000] turns>",
+		"Remove [Begin food rationing] [in this city]"] //recursive method
   }
 ]
