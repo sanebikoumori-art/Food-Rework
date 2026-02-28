@@ -1,0 +1,21 @@
+[
+  {
+		"name": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": [
+			"Indicates the capital city",
+      "Provides [2] [Foods]"
+		]
+	},
+  {
+    "name":"Begin food rationing",
+    "cost": 1,
+    "uniques":["Only available <when above [0] [Food]>","[+1 Food] [in this city] <for [10000] turns>","Consumes [1] [Food] <for [10000] turns>","Remove [Begin food rationing] [in this city]"]
+  }
+]
