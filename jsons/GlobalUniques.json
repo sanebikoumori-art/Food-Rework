@@ -1,0 +1,7 @@
+{
+    "name": "Global uniques",
+    "uniques":[
+      "Consumes [1] [Food] <for every [2] [units]>",
+      "Consumes [3] [Food] <for every [mounted]>",
+    ]
+}
