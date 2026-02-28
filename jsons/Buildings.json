@@ -2,8 +2,8 @@
   {
     "name":"Begin food rationing",
     "cost": 1,
-    "uniques":["Only available <when number of [Foods] is more than [0]> <for [Human] Civilizations> <hidden from users>",
-		"Only available <when number of [Foods] is more than [4]> <for [AI] Civilizations> <hidden from users>",
+    "uniques":["Only available <when above [0] [Foods]> <for [Human] Civilizations> <hidden from users>",
+		"Only available <when above [10] [Foods]> <for [AI] Civilizations> <hidden from users>",
 		"[+1 Food] [in this city] <for [10000] turns> <when above [0] [Foods]>",
 		"Consumes [1] [Foods]",
 		"Instantly provides [1] [Food Demands]",
