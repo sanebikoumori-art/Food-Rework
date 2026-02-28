@@ -10,16 +10,16 @@
 		"cost": 1,
 		"uniques": [
 			"Indicates the capital city",
-      "Provides [2] [Food]"
+      "Provides [2] [Foods]"
 		]
 	},
   {
     "name":"Begin food rationing",
     "cost": 1,
-    "uniques":["Only available <when number of [Food] is more than [0]> <for [Human] Civilizations> <hidden from users>",
-		"Only available <when number of [Food] is more than [4]> <for [AI] Civilizations> <hidden from users>",
-		"[+1 Food] [in this city] <for [10000] turns> <when above [0] [Food]>",
-		"Consumes [1] [Food]",
+    "uniques":["Only available <when number of [Foods] is more than [0]> <for [Human] Civilizations> <hidden from users>",
+		"Only available <when number of [Foods] is more than [4]> <for [AI] Civilizations> <hidden from users>",
+		"[+1 Food] [in this city] <for [10000] turns> <when above [0] [Foods]>",
+		"Consumes [1] [Foods]",
 		"Instantly provides [1] [Food Demands]",
 		"Remove [Begin food rationing] [in this city]"] //recursive method
   },
@@ -31,7 +31,7 @@
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]",
-		"Provides [1] [Food] <when number of [Rotten Food] is more than [0]>",
+		"Provides [1] [Foods] <when number of [Rotten Food] is more than [0]>",
 		"Provides [-1] [Rotten Food] <when number of [Rotten Food] is more than [0]>"],
 		"requiredTech": "Pottery"
 	},
