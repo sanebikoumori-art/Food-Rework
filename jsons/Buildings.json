@@ -1,19 +1,5 @@
 [
   {
-		"name": "Palace",
-		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 3,
-		"culture": 1,
-		"cityStrength": 2,
-		"cost": 1,
-		"uniques": [
-			"Indicates the capital city",
-      "Provides [2] [Foods]"
-		]
-	},
-  {
     "name":"Begin food rationing",
     "cost": 1,
     "uniques":["Only available <when number of [Foods] is more than [0]> <for [Human] Civilizations> <hidden from users>",
