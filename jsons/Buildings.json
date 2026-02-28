@@ -20,7 +20,7 @@
 		"[+1 Food] [in this city] <for [10000] turns>",
 		"Consumes [1] [Food]",
 		"Provides [1] [Happy Banana] <for [10000] turns>",
-		//"Instantly consumes [1] [Food] <for [10000] turns>",
+		"Instantly consumes [1] [Food] <for [10000] turns> <upon turn start>",
 		"Remove [Begin food rationing] [in this city]"] //recursive method
   }
 ]
